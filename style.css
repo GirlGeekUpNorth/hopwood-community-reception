@@ -4,6 +4,7 @@ img {
 
 body {
   background-color: #ADD8E6;
-  color: 00008B;
-  padding: 10%;
+  font-family: Tahoma, Verdana, sans-serif;
+  padding-left: 10%;
+  padding-right: 10%;
 } 
